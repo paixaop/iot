@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/paixaop/iot/main/noise/esp32-noise-sensor/fimware.bin"
+    "bin": "/paixaop/iot/main/noise/esp32-noise-sensor/firmware.bin"
 }
