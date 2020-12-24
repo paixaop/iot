@@ -1,7 +1,7 @@
 {
-    "type": "esp32-noise-sensr",
+    "type": "esp32-noise-sensor",
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/paixaop/iot/master/examples/HTTPS/fota/fota_via_https_v2.bin"
+    "bin": "/paixaop/iot/main/noise/esp32-noise-sensor/firmware.ino"
 }
